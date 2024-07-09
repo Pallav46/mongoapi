@@ -1,4 +1,4 @@
-module github.com/Pallav46/mongoapi
+module github.com/Pallav46/mongoapi_GoLang
 
 go 1.22.5
 
